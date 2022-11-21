@@ -1,0 +1,24 @@
+button:hover{
+    cursor: pointer;
+}
+
+h1{
+    color:white;
+}
+
+.switch{
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: red;
+    z-index: 1000;
+}
+
+#btn_si{
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    font-size: xx-large;
+    border-radius: 20px;
+}
